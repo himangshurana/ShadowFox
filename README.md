@@ -143,4 +143,17 @@ This repository showcases a **comprehensive penetration testing portfolio** deve
 **🔍 **Attack Methodology:**
 
 <div align="center">
+### 🏆 **ADVANCED LEVEL** - Expert Mastery
+
+<details>
+<summary><strong>🎖️ TryHackMe: Complete Penetration Testing Methodology</strong></summary>
+
+<br>
+
+**🎯 Challenge:** TryHackMe Basic Pentesting Room - Complete CTF Walkthrough
+
+**🔍 **Complete Attack Chain:**
+
+<div align="center">
+
 
